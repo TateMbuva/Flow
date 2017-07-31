@@ -1,0 +1,10 @@
+Electron
+		-BrowserWindow(Main)
+				-single page app
+				-jquery, jquery-ui, handlebars, bootstrap, summernote, codemirror
+				-router
+					-
+				-renderer
+				-pubsub
+				-controllers(logic)
+				-models

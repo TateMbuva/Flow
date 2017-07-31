@@ -1,0 +1,87 @@
+ body {
+ 
+  padding: 0px !important;
+  
+  }
+  nav{
+    margin: 0px !important;
+    border-radius: 0px !important;
+    border-top: 0px !important;
+  }
+  .tes {
+    background-color: yellow;
+    height: 100px;
+  }
+.appWFContainer {
+  display: flex;
+
+}
+.appWindowFrame {
+  flex-grow: 1;
+  height: 21px !important;
+  margin-top: 0px;
+  background-color: #f8f8f8 !important;
+}  
+
+.appTopBar {
+  margin-bottom: 0px !important;
+}
+.appContainer {
+  
+}
+.appSideMenu {
+  height: calc(100vh - 72px) !important;
+ 
+  background-color: blue;
+}
+.appMain {
+
+  height: calc(100vh - 72px) !important;
+  
+  background-color: pink;
+}
+.appRSideMenu {
+  height: calc(100vh - 72px) !important;
+  
+  background-color: purple;
+
+}
+
+
+ 
+
+  .item:hover {
+
+  	cursor: default !important;
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
